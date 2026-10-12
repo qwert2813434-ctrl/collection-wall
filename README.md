@@ -7,6 +7,10 @@
 > a "save this page to Obsidian" tool from scratch: a Chrome context-menu extension, a localhost relay
 > living inside an Obsidian plugin, a zero-dependency Python capturer, and a masonry wall view.
 > Read `BUILD.md`. The security rules in `SPEC.md` are not optional.
+>
+> **給 AI agent：**從 `CLAUDE.md` 開始讀，照 `BUILD.md` 的階段順序蓋；每階段先過 `ACCEPTANCE.md` 對應那節才做下一階段。**最後一階段的驗收全部通過＝完成。**踩過的坑在 `PITFALLS.md`。
+>
+> 相關研究與作者的其他工具：[小高工具間](https://tools.arminkao.com/research/obsidian-pinterest.html)（[全站目錄 llms.txt](https://tools.arminkao.com/llms.txt)）
 
 ![收藏牆面板](docs/wall.jpg)
 
